@@ -1,0 +1,11 @@
+Model 1 - Generates match result and team qualification/elimination related tweets on the Timeline.
+Generate new timeline in a given time range from scratch - Run model_1.py
+Generate timeline for the event in a quick time - Run all cells in model_1_speedup_timeline.ipynb or run model_1_speedup_timeline.py
+View Accuracy, Confusion matrix and classification report of the generated timeline - Run all cells in model_1_evaluation.ipynb or run model_1_evaluation.py
+
+Model 2 - Generates stats/unique event related tweets on the Timeline.
+Generate new timeline in a given time range from scratch - Run all cells in model_2.ipynb or run model_2.py
+Generate timeline for the event in a quick time - Run all cells in model_2_speedup_timeline.ipynb or run model_2_speedup_timeline.py
+View Accuracy, Confusion matrix and classification report of the generated timeline - Run all cells in model_2_evaluation.ipynb or run model_2_evaluation.py
+
+Scrape data for validation of timeline - Run scrape_wikipedia.py
